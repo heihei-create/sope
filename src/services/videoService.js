@@ -1,4 +1,4 @@
-const PROXY_URL = 'https://sope-api.onrender.com'
+const PROXY_URL = 'https://sope-u1yx.onrender.com'
 
 export async function textToImage(prompt) {
   try {
